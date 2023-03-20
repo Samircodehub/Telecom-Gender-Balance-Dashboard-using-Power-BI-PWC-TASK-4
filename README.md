@@ -13,6 +13,10 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 3. Build dashboard using Power BI
 4. Make insights report to showcase root cause for slow progress diversity and inclusion in their organisation. Also recommend the action needed to solve the problem  based on insights
 
+### Tools Required:
+Microsoft Power BI
+Excel
+
 
 ![Dashboard page 1](https://user-images.githubusercontent.com/108605935/206829669-73eccecf-1560-48a4-99e7-7497afa43cdd.png)
 ![Dashboard page 2](https://user-images.githubusercontent.com/108605935/206829684-090e1d8f-0965-4f0c-8c4f-008c12c9f648.png)
