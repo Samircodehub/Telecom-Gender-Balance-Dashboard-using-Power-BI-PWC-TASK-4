@@ -7,7 +7,7 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 1) Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 2) Write what you think some root causes of their slow progress might be
 
-* Measures to define KPIs
+##### Measures to define KPIs
 No. of men, No. of women, No. of leavers, % employees promoted (FY21), % of women promoted, % of hires men, % of hires women, % turnover , Average performance rating: men, Average Performance rating: women
 
 ### Action
