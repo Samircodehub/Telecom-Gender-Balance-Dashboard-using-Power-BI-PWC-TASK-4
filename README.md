@@ -1,6 +1,6 @@
 # Diversity-Inclusion-Gender-Balance-Dashboard-using-Power-BI
 
-### Problem statment (Situation)
+### Problem statment
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. 
 
 ### Task
